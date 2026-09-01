@@ -1,4 +1,4 @@
-# Connect API
+# Experiência Prática 2 - Desenvolvimento de uma API 
 
 API REST de prototipagem (MVP) para gerenciamento de usuarios, com persistencia
 simulada em memoria (sem banco de dados real).
@@ -54,7 +54,7 @@ connect-api/
 Todas as respostas seguem o envelope padrao `{"data": ...}` em sucesso ou
 `{"error": "..."}` em falha.
 
-## Exemplos de uso (curl)
+## Exemplos de uso
 
 Criar um usuario:
 
